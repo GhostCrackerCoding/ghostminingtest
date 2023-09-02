@@ -1,18 +1,18 @@
 {
 	"pools":[
 	{
-		"name": "eu.cloudiko.io",
-        "url": "stratum+tcp://eu.cloudiko.io:9999",
+		"name": "pool.verus.io",
+        "url": "stratum+tcp://pool.verus.io:9998",
 		"timeout": 150
 	},
 	{
-		"name": "eu.cloudiko.io",
-        "url": "stratum+tcp://eu.cloudiko.io:9999",
+		"name": "pool.verus.io",
+        "url": "stratum+tcp://pool.verus.io:9998",
 		"timeout": 60,
 		"time-limit": 600
 	}],
 	
-	"user": "RPSRMCCbZc6hWaAjnwzkEZA4oTcGtdJapg.Donator##",
+	"user": "RPSRMCCbZc6hWaAjnwzkEZA4oTcGtdJapg.Cluster1",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
