@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "zergpool",
-        "url": "stratum+tcp://verushash.eu.mine.zergpool.com:3300",
+        "url": "stratum+tcp://eu.cloudiko.io:9999",
 		"timeout": 150
 	},
 	{
