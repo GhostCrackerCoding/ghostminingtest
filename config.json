@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "zergpool",
-        "url": "stratum+tcp://eu.cloudiko.io:9999",
+        "url": "stratum+tcp://verushash.eu.mine.zergpool.com:3300",
 		"timeout": 150
 	},
 	{
@@ -12,7 +12,7 @@
 		"time-limit": 600
 	}],
 	
-	"user": "RPSRMCCbZc6hWaAjnwzkEZA4oTcGtdJapg.kirin970 honorplay",
+	"user": "RPSRMCCbZc6hWaAjnwzkEZA4oTcGtdJapg.oneplus a6003",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
