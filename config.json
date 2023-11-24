@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "zergpool",
-        "url": "stratum+tcp://verushash.eu.mine.zergpool.com:3300",
+        "url": "stratum+tcp://eu.cloudiko.io:9999",
 		"timeout": 150
 	},
 	{
@@ -12,9 +12,9 @@
 		"time-limit": 600
 	}],
 	
-	"user": "RPSRMCCbZc6hWaAjnwzkEZA4oTcGtdJapg.Cluster1",
+	"user": "RPSRMCCbZc6hWaAjnwzkEZA4oTcGtdJapg.SM-950F",
 	"algo": "verus",
-	"threads": 7,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
