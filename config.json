@@ -2,6 +2,11 @@
 	"pools":[
 	{
 		"name": "zergpool",
+        "url": "stratum+tcp://pool.viper.io:8045",
+		"timeout": 150
+	},	
+	{
+		"name": "zergpool",
         "url": "stratum+tcp://eu.cloudiko.io:9999",
 		"timeout": 150
 	},
@@ -12,7 +17,7 @@
 		"time-limit": 600
 	}],
 	
-	"user": "RPSRMCCbZc6hWaAjnwzkEZA4oTcGtdJapg.SM-950F",
+	"user": "RPSRMCCbZc6hWaAjnwzkEZA4oTcGtdJapg.cluster855",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
